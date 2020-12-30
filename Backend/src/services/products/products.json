@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Redmi Note 9 Pro",
+        "description": "one of the decent phone out there",
+        "brand": "Redmi",
+        "imageUrl": "https://i01.appmifile.com/webfile/globalimg/German/Note9Pro/J6Bgrey.png",
+        "price": 200,
+        "category": "smartphones",
+        "ID": "eot19wokin8jyum",
+        "createdAt": "2020-12-13T14:40:54.573Z"
+    },
+    {
+        "name": "Redmi Note 9 Pro",
+        "description": "one of the decent phone out there",
+        "brand": "Redmi",
+        "imageUrl": "https://i01.appmifile.com/webfile/globalimg/German/Note9Pro/J6Bgrey.png",
+        "price": 200,
+        "category": "smartphones",
+        "ID": "eot17jckin8mxz1",
+        "createdAt": "2020-12-13T14:43:13.404Z"
+    },
+    {
+        "name": "Redmi Note 9 Pro",
+        "description": "one of the decent phone out there",
+        "brand": "Redmi",
+        "imageUrl": "https://i01.appmifile.com/webfile/globalimg/German/Note9Pro/J6Bgrey.png",
+        "price": 200,
+        "category": "smartphones",
+        "ID": "eot19skkin8mym5",
+        "createdAt": "2020-12-13T14:43:14.236Z"
+    },
+    {
+        "name": "Redmi Note 9 Pro",
+        "description": "one of the decent phone out there",
+        "brand": "Redmi",
+        "imageUrl": "https://i01.appmifile.com/webfile/globalimg/German/Note9Pro/J6Bgrey.png",
+        "price": 200,
+        "category": "smartphones",
+        "ID": "eot1lkkin8mz9m",
+        "createdAt": "2020-12-13T14:43:15.081Z"
+    },
+    {
+        "name": "Redmi Note 9 Pro",
+        "description": "one of the decent phone out there",
+        "brand": "Redmi",
+        "imageUrl": "https://i01.appmifile.com/webfile/globalimg/German/Note9Pro/J6Bgrey.png",
+        "price": 200,
+        "category": "smartphones",
+        "ID": "eot11ukkin8mzuh",
+        "createdAt": "2020-12-13T14:43:15.832Z"
+    },
+    {
+        "name": "Redmi Note 9 Pro",
+        "description": "one of the decent phone out there",
+        "brand": "Redmi",
+        "imageUrl": "https://i01.appmifile.com/webfile/globalimg/German/Note9Pro/J6Bgrey.png",
+        "price": 200,
+        "category": "smartphones",
+        "ID": "eot1aywkin8n0l5",
+        "createdAt": "2020-12-13T14:43:16.792Z"
+    },
+    {
+        "name": "redmi 5",
+        "description": "best phone",
+        "price": "100",
+        "id": "12213",
+        "category": "smartphones",
+        "specialRequests": "",
+        "imageUrl": "C:\\fakepath\\myGiphy.gif",
+        "brand": "mi ",
+        "ID": "eot1eo4kinf9ijx",
+        "createdAt": "2020-12-13T17:48:44.204Z"
+    },
+    {
+        "name": "redmi 5",
+        "description": "best phone",
+        "price": "4",
+        "id": "5",
+        "category": "smartphones",
+        "brand": "nokia",
+        "imageUrl": "C:\\fakepath\\fate stay night archer shirou.jpg",
+        "ID": "eot17dskinff3qn",
+        "createdAt": "2020-12-13T17:53:04.942Z"
+    }
+]
